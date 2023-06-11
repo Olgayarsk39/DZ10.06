@@ -3,18 +3,21 @@ html{
     font-family: 'Merriweather', serif;
 }
 h1{
-    font-size: 50px;
+    font-size: 52px;
     text-align: center;
     color: rgb(239, 124, 43);
 }
 h2{
-    font-size: 35px;
+    font-size: 37px;
     color: rgb(240, 123, 7);
 }
 h3{
-    font-size: 20px;
+    font-size: 25px;
     color: rgb(214, 114, 14);
 }
+h4{
+    font-size: 18px;
+   }
 p{
     margin: 0 30px 0 30px;
 }
